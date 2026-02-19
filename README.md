@@ -83,7 +83,7 @@ Link for Data Set( Store Sales - Time Series Forecasting) - /kaggle/input/sales-
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 ###Environment / Platform
 
 - Kaggle Notebook Editor – used to run and manage the Python scripts and notebooks
@@ -101,7 +101,7 @@ Link for Data Set( Store Sales - Time Series Forecasting) - /kaggle/input/sales-
 
 ---
 
-## ▶ How to Run This Project
+##  How to Run This Project
 1. Clone the repository  
 2. Install required Python libraries  
 3. Open the Jupyter Notebook (`.ipynb` file)  
