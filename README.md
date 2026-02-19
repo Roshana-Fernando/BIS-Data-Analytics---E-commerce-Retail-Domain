@@ -1,5 +1,7 @@
 #  Retail Sales Performance Analysis & Forecasting
 
+Note - Please refer to the Roshana Notebook BIS.ipynb file in this repository to view the analysis, including all codes and results.
+
 ##  Project Overview
 This project analyzes a retail transactional dataset to understand sales performance, customer behavior, revenue distribution, and future sales trends. 
 The analysis follows a structured four-phase approach combining exploratory, statistical, predictive, and operational analysis to support data-driven business decision-making.
